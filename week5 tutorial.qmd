@@ -35,7 +35,6 @@ penguins |>
 
 ![minion](minion.jpg){#fig-minion}
 
-
 [@fig-minion] is cute
 
 Cite this source: [@penguin_data]
